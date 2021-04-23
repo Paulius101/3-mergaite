@@ -8,8 +8,8 @@
     - skirta aprasyti kas, ka ir kodel daro
     - iterpti nuoroda i daroma dizinai
     - iterpti nuoroda, kur tas musu kodas gali buti pamatytas
-- [ ] atlikti dizaino analize
-- [ ] surasyti HTML
+- [x] atlikti dizaino analize
+- [x] surasyti HTML
 - [ ] issikirpti nuotraukas ir jas panaudoti:
     - panaudoti reliatyvu kelia
     - png formatas, del permatomumo savybes (jpeg to negali) 
