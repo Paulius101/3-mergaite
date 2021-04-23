@@ -3,6 +3,11 @@
 - [x] pradine failu struktura:
     - index.html
     - .gitignore
+- [x] Paviesinti projekta per Github Pages (gausim URL)
+- [x] Readme.md
+    - skirta aprasyti kas, ka ir kodel daro
+    - iterpti nuoroda i daroma dizinai
+    - iterpti nuoroda, kur tas musu kodas gali buti pamatytas
 - [ ] atlikti dizaino analize
 - [ ] surasyti HTML
 - [ ] issikirpti nuotraukas ir jas panaudoti:
@@ -12,8 +17,6 @@
     -turinys turi buti centre
     - pagrindinis plotis turi buti fiksuotas
     - stiliu (css) atskirti tuo HTML
-- [ ] Readme.md
-- [ ] Paviesinti projekta per Github Pages (gausim URL)
 
 # Pasiskaitymui
 
